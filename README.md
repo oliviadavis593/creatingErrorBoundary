@@ -1,2 +1,0 @@
-# creatingErrorBoundary
-Created with CodeSandbox
